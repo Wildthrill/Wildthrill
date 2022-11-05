@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Wildthrill
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Wildthrill/Wildthrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, we are @Wildthrill
+- 👀 We are the constantly growing community that helps other pepople know more about WEB3.0 and nodes)
+- 📫 You can allways reach the owner by Telegram @wildthrill
